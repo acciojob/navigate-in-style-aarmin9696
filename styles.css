@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+li{
+	display: inline;
+	margin: 1rem;
+}
+nav{
+	background-color: #d3d3d3;
+	padding: 10px;
+}
