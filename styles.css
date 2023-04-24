@@ -3,7 +3,10 @@ li{
 	display: inline;
 	margin: 1rem;
 }
-nav{
+.container{
 	background-color: #d3d3d3;
 	padding: 10px;
+}
+ul{
+	display:flex;
 }
